@@ -10,4 +10,9 @@ App design on GCP
 | AWS VPN | Cloud VPN | Azure VPN
 | AWS Private Link | Private Service Connect | Azure Private Link
 | AWS VPC Peering | Cloud VPC Peering | Azure Virtual Network Peering
+| Transit gateway |                   | Gateway Transit
 | Route 53 | Cloud DNS | Azure DNS
+| Application LB |                   | Application gateway
+| Network LB |     | Azure load balancer
+| | | Azure frontdoor (globale LB, http)
+| | | Azure traffic manager (global LB, not-https
