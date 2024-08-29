@@ -16,3 +16,4 @@ App design on GCP
 | Network LB |     | Azure load balancer
 | | | Azure frontdoor (globale LB, http)
 | | | Azure traffic manager (global LB, not-https
+| EKS | GKE | AKS
