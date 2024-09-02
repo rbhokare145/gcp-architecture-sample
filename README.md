@@ -17,3 +17,6 @@ App design on GCP
 | | | Azure frontdoor (globale LB, http)
 | | | Azure traffic manager (global LB, not-https
 | EKS | GKE | AKS
+| CloudFront | Cloud CDN | Azure FrontDoor
+| S3 | Cloud Storage | Azure Storage
+| 
